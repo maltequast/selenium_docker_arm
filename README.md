@@ -2,11 +2,11 @@ Made for Raspberry Pi:
 
 Setup:
 
-Python3.5
-Selenium==3.13.0
-pivirtualdisplay:latest
-Geckodriver= 0.23
-Firefox-esr 60.8.0
+- Python3.5
+ - Selenium==3.13.0
+ - pivirtualdisplay:latest
+ - Geckodriver= 0.23
+ - Firefox-esr 60.8.0
 
 creating an image:
 
